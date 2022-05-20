@@ -7,23 +7,23 @@ var palabraIngresada = rValue;
 var reiniciar = document.querySelector("#reiniciar");
 
 const words = [
-    'dirty',
-    'thunderkiss',
-    'TNewWorldOrder',
+    'dirty black summer',
+    'thunderkiss 65',
+    'The wWorld Order',
     'oddity',
     'sour',
-    'summertime',
+    'summertime sadness',
     'houdini',
     'goes',
     'meantime',
-    'dinner',
-    'drai',
+    'dinner alone',
+    'drain you',
     'jesuscristpose',
     'Karmacoma',
     'goo',
-    'master',
+    'master of reality',
     'starless',
-    'jerry',
+    'jerry was a racer car driver',
     'grounded',
     'Santería'
     ];
