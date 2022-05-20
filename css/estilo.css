@@ -9,13 +9,13 @@ body{
     background-size: cover;
     background-attachment: fixed;
     position: relative;
-    color: orangered;
+    color: rgb(0, 255, 157);
     
 }
 
 #reiniciar {
     text-align: center;
-    background-color: rgb(63, 215, 246);
+    background-color: rgb(246, 63, 206);
     color: white;
     height: 50px;
     width: 100px;
@@ -40,9 +40,9 @@ body{
     width: 350px;
     height: 500px;
     background-color: rgb(0, 0, 0);
-    opacity: 50%;
-    border-radius: 25px;
-    padding-top: 35px;
+    opacity: 90%;
+    border-radius: 15px;
+    padding-top: 5px;
     box-shadow: 0 0 40px 0 rgba(0, 0, 0, 0.8);
 }
 
