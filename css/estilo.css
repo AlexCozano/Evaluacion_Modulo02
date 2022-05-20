@@ -5,7 +5,7 @@ body{
     text-align: center;
     width: 100%;
     height: 800px;
-    background:  url(../img/fondo.jpg);
+    background:  url(/img/bandas-rock.jpg);
     background-size: cover;
     background-attachment: fixed;
     position: relative;
